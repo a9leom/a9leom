@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Adrian.
-- 🤓 I’m currently learning software devlepment at [Platzi](https://platzi.com/p/a9leom/).
+- 🤓 Working on improving my software devlepment skills at [Platzi](https://platzi.com/p/a9leom/).
 - 💼 Here you can see my [Portafolio]().
 - 📫 How to reach me ...
 
